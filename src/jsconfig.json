@@ -1,0 +1,5 @@
+{ // VS CODE에서 파일 자동 불러오기 기능을 활용
+  "compilerOptions": {
+    "target": "es6"
+  }
+}
